@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Inbox/コマツジョークラッシャー（ERW向け）のクリーンエネルギー化戦略.md",
+                "file": "GEMINI/GEMINI.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "コマツジョークラッシャー（ERW向け）のクリーンエネルギー化戦略"
+              "title": "GEMINI"
             }
           }
         ],
@@ -240,6 +240,12 @@
   },
   "active": "79d8bcbe1c3f5bac",
   "lastOpenFiles": [
+    "status.tmp",
+    "backup.bat",
+    "temp_status.txt",
+    "debug_output.txt",
+    "20_Inbox/コマツジョークラッシャー（ERW向け）のクリーンエネルギー化戦略.md",
+    "daily_git_sync.bat",
     "20_Inbox/コマツ木材破砕機（リフォレ）のクリーンエネルギー化戦略.md",
     "20_Inbox/コマツ木材破砕機のバイオ燃料事業におけるビジネスチャンス.md",
     "GEMINI/autolink.md",
@@ -247,7 +253,6 @@
     "GEMINI/memo.md",
     "GEMINI/GEMINI.md",
     "20_Inbox/岩石風化促進法（ERW）とコマツのジョークラッシャーの可能性.md",
-    "20_Inbox/コマツジョークラッシャー（ERW向け）のクリーンエネルギー化戦略.md",
     "20_Inbox/重機のクリーンエネルギー化に向けた検討事項.md",
     "20_Inbox/コマツの環境リサイクル機械事業に関する考察（仮説）.md",
     "20_Inbox/木材処理機械のまとめ.md",
@@ -267,15 +272,10 @@
     "download-ripgreplQz8Dg/tmp-file",
     "download-ripgreplQz8Dg",
     "20_Inbox/高市氏と公明党の連立解消懸念について.md",
-    "資源リサイクル10%チャレンジ/BR580復活プロジェクト提案プレゼン.md",
     "GEMINI/スクリーンショット 2025-10-05 213112.png",
     "GEMINI",
     "新しいフォルダー",
     "40_Permanent",
-    "30_Literature",
-    "20_Inbox",
-    "10_Daily",
-    "ライフログ/デイリーノート",
-    "ファイナンシャルプランニング"
+    "30_Literature"
   ]
 }
