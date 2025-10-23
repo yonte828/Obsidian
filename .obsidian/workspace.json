@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "GEMINI/GEMINI.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -240,6 +240,7 @@
   },
   "active": "79d8bcbe1c3f5bac",
   "lastOpenFiles": [
+    "push_to_github.bat",
     "status.tmp",
     "backup.bat",
     "temp_status.txt",
@@ -275,7 +276,6 @@
     "GEMINI/スクリーンショット 2025-10-05 213112.png",
     "GEMINI",
     "新しいフォルダー",
-    "40_Permanent",
-    "30_Literature"
+    "40_Permanent"
   ]
 }
