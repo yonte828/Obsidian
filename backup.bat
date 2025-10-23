@@ -25,20 +25,16 @@ git push
 if not %errorlevel%==0 goto error
 
 echo Backup completed
-pause
 exit /b 0
 
 :nochange
 echo No changes detected
-pause
 exit /b 0
 
 :norepository
 echo Error: Not a Git repository
-pause
 exit /b 1
 
 :error
 echo Error occurred
-pause
 exit /b 1
