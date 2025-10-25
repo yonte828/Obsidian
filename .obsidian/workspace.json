@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Inbox/リフォレの燃料自給自足モデル検証.md",
+                "file": "20_Inbox/キャリアプラン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "リフォレの燃料自給自足モデル検証"
+              "title": "キャリアプラン"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -169,12 +169,20 @@
   },
   "active": "79d8bcbe1c3f5bac",
   "lastOpenFiles": [
-    "40_Permanent/重機のクリーンエネルギー化は動力源の転換とエネルギー効率改善の両輪で進める.md",
-    "20_Inbox/リフォレの燃料自給自足モデル検証.md",
-    "40_Permanent/重機のクリーンエネルギー化に向けた検討事項.md",
-    "キャリアプラン/進捗記録.md",
-    "20_Inbox/コマツMOC.md",
+    "status.tmp",
+    "20_Inbox/長期目標（10年後）.md",
+    "20_Inbox/チャレンジプログラムへの関わり方.md",
+    "20_Inbox/進捗記録.md",
     "ファイナンシャルプランニング/20251004_プランサマリー.md",
+    "20_Inbox/フレームワークとNext.jsとTypeScriptの関係.md",
+    "GEMINI/GEMINI.md",
+    "30_Literature/リフォレの燃料自給自足モデルの参考資料.md",
+    "30_Literature/リフォレの燃料自給自足モデル試算の参考資料.md",
+    "20_Inbox/リフォレの燃料自給自足モデルの一次試算.md",
+    "40_Permanent/重機のクリーンエネルギー化に向けた検討事項.md",
+    "20_Inbox/リフォレの燃料自給自足モデル検証.md",
+    "40_Permanent/重機のクリーンエネルギー化は動力源の転換とエネルギー効率改善の両輪で進める.md",
+    "20_Inbox/コマツMOC.md",
     "GEMINI/memo.md",
     "GEMINI/README.md",
     "資源リサイクル10%チャレンジ/KMC提案サマリー.md",
@@ -182,22 +190,13 @@
     "資源リサイクル10%チャレンジ/KMCへの提案.md",
     "資源リサイクル10%チャレンジ/BR580復活プロジェクト提案プレゼン.md",
     "資源リサイクル10%チャレンジ/BR580復活プロジェクト提案プレゼンNo2(ボツ).md",
-    "キャリアプラン/長期目標（10年後）.md",
-    "キャリアプラン/中期目標（3-5年）.md",
-    "キャリアプラン/短期目標（1年以内）.md",
-    "キャリアプラン/キャリアプラン.md",
+    "20_Inbox/中期目標（3-5年）.md",
+    "20_Inbox/短期目標（1年以内）.md",
+    "20_Inbox/キャリアプラン.md",
     "キャリアプラン/キャリアプランまとめ.md",
-    "キャリアプラン/スキル開発計画.md",
-    "キャリアプラン/チャレンジプログラムへの関わり方.md",
-    "キャリアプラン/現在の状況.md",
-    "キャリアプラン/学習リソース.md",
-    "10_Daily/2025-10-24.md",
-    "GEMINI/GEMINI.md",
+    "20_Inbox/スキル開発計画.md",
     "10_Daily/2025/10",
     "10_Daily/2025",
-    "status.tmp",
-    "GEMINI/autolink.md",
-    "20_Inbox/楽天JEPQとオルカンの比較およびカバードコール戦略の解説.md",
     "push_to_github.bat",
     "backup.bat",
     "temp_status.txt",
