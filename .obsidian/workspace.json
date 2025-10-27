@@ -11,13 +11,32 @@
             "id": "79d8bcbe1c3f5bac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "20_Inbox/AI時代の自己研鑽.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI時代の自己研鑽"
+            }
+          },
+          {
+            "id": "171f50b2765604b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Inbox/Excel VBAアプリ保守戦略.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Excel VBAアプリ保守戦略"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,11 +182,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "79d8bcbe1c3f5bac",
+  "active": "171f50b2765604b7",
   "lastOpenFiles": [
-    "status.tmp",
-    "20_Inbox/Excel VBAアプリ保守戦略.md",
+    "10_Daily/2025-10-27.md",
+    "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料",
+    "20_Inbox/KMC向け価値仮説ボード",
+    "10_Daily/2025-10-08.md",
+    "10_Daily/2025-10-04.md",
+    "無題のファイル.md",
     "20_Inbox/AI時代の自己研鑽.md",
+    "英語学習.md",
+    "20_Inbox/Excel VBAアプリ保守戦略.md",
+    "20_Inbox/ツェッテルカステンメモ術の要約.md",
+    "無題のファイル.base",
+    "status.tmp",
     "20_Inbox/高市氏と公明党の連立解消懸念について.md",
     "40_Permanent/重機のクリーンエネルギー化に向けた検討事項.md",
     "40_Permanent/重機のクリーンエネルギー化は動力源の転換とエネルギー効率改善の両輪で進める.md",
@@ -182,24 +210,15 @@
     "20_Inbox/ツェッテルカステンの3層思考システム.md",
     "20_Inbox/ツェッテルカステンの基本思想.md",
     "20_Inbox/従来のメモ術の限界.md",
-    "20_Inbox/ツェッテルカステンメモ術の要約.md",
     "20_Inbox/長期目標（10年後）.md",
     "20_Inbox/チャレンジプログラムへの関わり方.md",
     "20_Inbox/進捗記録.md",
-    "ファイナンシャルプランニング/20251004_プランサマリー.md",
-    "20_Inbox/フレームワークとNext.jsとTypeScriptの関係.md",
-    "GEMINI/GEMINI.md",
-    "30_Literature/リフォレの燃料自給自足モデルの参考資料.md",
-    "30_Literature/リフォレの燃料自給自足モデル試算の参考資料.md",
     "10_Daily/2025/10",
     "10_Daily/2025",
     "push_to_github.bat",
     "backup.bat",
     "temp_status.txt",
     "debug_output.txt",
-    "daily_git_sync.bat",
-    "download-ripgreplQz8Dg/tmp-file",
-    "download-ripgreplQz8Dg",
     "GEMINI/スクリーンショット 2025-10-05 213112.png"
   ]
 }
