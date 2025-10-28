@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Daily/2025-10-28.md",
+                "file": "20_Inbox/KMC向け価値仮説ボード.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-28"
+              "title": "KMC向け価値仮説ボード"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "729cd9ae7ab53fa8",
@@ -180,11 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62bc3ab6a2299b52",
+  "active": "171f50b2765604b7",
   "lastOpenFiles": [
-    "無題のファイル.md",
-    "10_Daily/2025-10-28.md",
     "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
+    "10_Daily/2025-10-28.md",
+    "無題のファイル.md",
     "20_Inbox/AI時代の自己研鑽.md",
     "20_Inbox/KMC向け価値仮説ボード.md",
     "20_Inbox/Excel VBAアプリ保守戦略.md",
