@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "79d8bcbe1c3f5bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Inbox/AI時代の自己研鑽.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI時代の自己研鑽"
+            }
+          },
+          {
             "id": "171f50b2765604b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "資源リサイクル10%チャレンジ/KMCへの提案.md",
+                "file": "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KMCへの提案"
+              "title": "KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "KMC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +89,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Daily/2025-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-10-28からのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -142,31 +155,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Daily/2025-10-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-10-28のアウトライン"
-            }
-          },
-          {
-            "id": "62bc3ab6a2299b52",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "アウトライン"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,24 +179,22 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "terminal:Open terminal": false,
-      "obsidian-git:Open Git source control": false
+      "terminal:Open terminal": false
     }
   },
   "active": "171f50b2765604b7",
   "lastOpenFiles": [
-    "資源リサイクル10%チャレンジ/BR580復活プロジェクト提案プレゼン.md",
+    "10_Daily/2025-10-28.md",
     "20_Inbox/KMC向け価値仮説ボード.md",
     "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
-    "10_Daily/2025-10-28.md",
-    "無題のファイル.md",
-    "20_Inbox/AI時代の自己研鑽.md",
     "20_Inbox/Excel VBAアプリ保守戦略.md",
     "10_Daily/2025-10-27.md",
     "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料",
     "20_Inbox/KMC向け価値仮説ボード",
     "10_Daily/2025-10-08.md",
     "10_Daily/2025-10-04.md",
+    "無題のファイル.md",
+    "20_Inbox/AI時代の自己研鑽.md",
     "英語学習.md",
     "20_Inbox/ツェッテルカステンメモ術の要約.md",
     "無題のファイル.base",
@@ -213,6 +213,7 @@
     "20_Inbox/ツェッテルカステンの3層思考システム.md",
     "20_Inbox/ツェッテルカステンの基本思想.md",
     "20_Inbox/従来のメモ術の限界.md",
+    "20_Inbox/長期目標（10年後）.md",
     "10_Daily/2025/10",
     "10_Daily/2025",
     "push_to_github.bat",
