@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10_Daily/2025-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "2025-10-28からのアウトゴーイングリンク"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10_Daily/2025-10-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-10-28のアウトライン"
             }
           },
           {
@@ -178,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e75d296b9fb3fa03",
+  "active": "62bc3ab6a2299b52",
   "lastOpenFiles": [
-    "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
+    "無題のファイル.md",
     "10_Daily/2025-10-28.md",
+    "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
     "20_Inbox/AI時代の自己研鑽.md",
     "20_Inbox/KMC向け価値仮説ボード.md",
     "20_Inbox/Excel VBAアプリ保守戦略.md",
@@ -190,7 +193,6 @@
     "20_Inbox/KMC向け価値仮説ボード",
     "10_Daily/2025-10-08.md",
     "10_Daily/2025-10-04.md",
-    "無題のファイル.md",
     "英語学習.md",
     "20_Inbox/ツェッテルカステンメモ術の要約.md",
     "無題のファイル.base",
