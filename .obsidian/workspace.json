@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
+                "file": "10_Daily/2025-10-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料"
+              "title": "2025-10-28"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "171f50b2765604b7",
+  "active": "e75d296b9fb3fa03",
   "lastOpenFiles": [
-    "20_Inbox/AI時代の自己研鑽.md",
     "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
+    "10_Daily/2025-10-28.md",
+    "20_Inbox/AI時代の自己研鑽.md",
     "20_Inbox/KMC向け価値仮説ボード.md",
     "20_Inbox/Excel VBAアプリ保守戦略.md",
     "10_Daily/2025-10-27.md",
@@ -209,7 +210,6 @@
     "20_Inbox/ツェッテルカステンの基本思想.md",
     "20_Inbox/従来のメモ術の限界.md",
     "20_Inbox/長期目標（10年後）.md",
-    "20_Inbox/チャレンジプログラムへの関わり方.md",
     "10_Daily/2025/10",
     "10_Daily/2025",
     "push_to_github.bat",
