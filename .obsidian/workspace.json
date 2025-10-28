@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "資源リサイクル10%チャレンジ/KMCへの提案.md",
+                "file": "資源リサイクル10%チャレンジ/KMC提案サマリー.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KMCへの提案"
+              "title": "KMC提案サマリー"
             }
           }
         ],
@@ -196,12 +196,13 @@
   },
   "active": "171f50b2765604b7",
   "lastOpenFiles": [
-    "資源リサイクル10%チャレンジ/BR580復活プロジェクト提案プレゼン.md",
     "資源リサイクル10%チャレンジ/KMCへの提案.md",
+    "資源リサイクル10%チャレンジ/BR580復活プロジェクト提案プレゼン.md",
+    "資源リサイクル10%チャレンジ/KMC提案サマリー.md",
+    "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
     "40_Permanent/BR580の復活はKMCにとって低リスクな新規参入戦略となる.md",
     "40_Permanent/提案のゴールを小さなYESに設定すると承認を得やすい.md",
     "20_Inbox/KMC向け価値仮説ボード.md",
-    "20_Inbox/KOMATSU BR580JG-1 vs 競合モバイルジョークラッシャー 比較資料.md",
     "10_Daily/2025-10-28.md",
     "20_Inbox/Excel VBAアプリ保守戦略.md",
     "10_Daily/2025-10-27.md",
@@ -225,7 +226,6 @@
     "20_Inbox/ツェッテルカステン実践のコツ.md",
     "20_Inbox/知識を化学反応させる4つのリンク技術.md",
     "20_Inbox/ツェッテルカステンの3層思考システム.md",
-    "20_Inbox/ツェッテルカステンの基本思想.md",
     "10_Daily/2025/10",
     "10_Daily/2025",
     "push_to_github.bat",
