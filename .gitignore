@@ -1,2 +1,8 @@
+# すべてのファイルとフォルダを無視
+/*
 
-/.obsidian/workspace.json
+# 例外的に50_KOMATSUフォルダとその中身は追跡する
+!/50_KOMATSU/
+
+# .gitignoreファイル自体も管理する
+!.gitignore
