@@ -17,5 +17,5 @@ Web上の画像を直接埋め込むことが難しいため、以下のリン�
 *   **製品ページ (Komatsu)**: [Feeder breakers - Komatsu](https://www.komatsu.com/en/products/crushing/feeder-breakers/)
 *   **動画 (YouTube)**: [Efficient crushing with surface feeder breakers](https://www.youtube.com/results?search_query=Komatsu+Surface+Feeder+Breaker)
 
-[[クラッシャー]] [[破砕機]] [[鉱業]] [[建設業]] [[KMT]] [[Surface Feeder Breakers]] [[STRIKEFORCE]]
+[[クラッシャHSI|クラッシャー]] [[破砕機]] [[鉱業]] [[建設業]] [[KMTMOC|KMT]] [[クラッシャーにおけるSFB (Surface Feeder Breakers)|Surface Feeder Breakers]] [[STRIKEFORCE]]
 #クラッシャー #SFB #KMT #重機 #建設機械 #鉱業機械

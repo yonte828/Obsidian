@@ -3,7 +3,7 @@
 目的：[[A社]]にとって最も価値のある提案を素早く同定し、短期[[POC]]で検証する。
 
 [コンテキスト要約]
-- [[A社]]は[[クラッシャー]]事業を拡大し、モバイル化（自走化）を構想。[[北米]]/[[インド]]など世界展開の意向あり。 [1](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTEzMzkzNDgwMjA0Mjg4MCJ9)
+- [[A社]]は[[クラッシャHSI|クラッシャー]]事業を拡大し、モバイル化（自走化）を構想。[[北米]]/[[インド]]など世界展開の意向あり。 [1](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTEzMzkzNDgwMjA0Mjg4MCJ9)
 - [[KLTD]]の自走式破砕機（例：[[580]]）の技術・ノウハウ共有に関心。 [1](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTEzMzkzNDgwMjA0Mjg4MCJ9)
 - [[380]]はコンスト向け、マイニング向けは[[580]]クラス以上が望ましいという示唆あり。 [1](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTEzMzkzNDgwMjA0Mjg4MCJ9)
 - 協業の打ち手（技術移管、共同開発、販路活用等）を比較検討する社内議論が行われている。 [1](https://engage.cloud.microsoft/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTEzMzkzNDgwMjA0Mjg4MCJ9)[2](https://app.powerbi.com/groups/5fe7d494-407a-44e1-a088-f234ad55653a/reports/28f7946b-d261-4d9a-a1a3-cb8cd74fa737?pbi_source=Substrate)
@@ -11,7 +11,7 @@
 [価値仮説グリッド]
 1) 技術/[[TCO]]
    仮説：自走化設計により[[TCO]]（燃費/消耗品/保守）が業界最良を達成
-   KPI：運転費%低減、[[MTBF]]↑、保守工数↓
+   KPI：運転費%低減、[[MATLAB|MTBF]]↑、保守工数↓
    質問：[[TCO]]評価で最重要なのは何ですか？今の痛点は？
    [[POC]]：[[580]]系ユニットで燃費/保守の比較試験
 
@@ -22,7 +22,7 @@
    [[POC]]：耐久ベンチ＋短期フィールドデータ提示
 
 3) 統合容易性
-   仮説：[[A社]]固定式[[クラッシャー]]への足回り統合が短工期・低コスト
+   仮説：[[A社]]固定式[[クラッシャHSI|クラッシャー]]への足回り統合が短工期・低コスト
    KPI：設計時間↓、取付時間↓
    質問：設計/取付で最も工数がかかる箇所は？
    [[POC]]：[[モジュール設計]]で取付リードの計測
@@ -53,7 +53,7 @@
 成果：KPIダッシュボード、改善提案、共同ロードマップ
 
 [意思決定ゲート]
-- 技術：燃費◯%改善、[[MTBF]]◯h以上
+- 技術：燃費◯%改善、[[MATLAB|MTBF]]◯h以上
 - 商用：価格/納期/SLA合意
 - 統合：固定式への統合容易性検証済み
 
