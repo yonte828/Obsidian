@@ -31,9 +31,9 @@ Now, let me explain the two strategies we are proposing today.
 
 **First, Proposal 1: "Technical Support for Mobility Transformation."**
 
-This proposal aims to achieve early mobility transformation of Company A products through specialized technical assistance and know-how transfer from Company B. Specifically, we will provide comprehensive know-how necessary for mobilization, enhance the reliability of Company A products, and help achieve mobility goals at an early stage.
+This proposal aims to achieve early mobility transformation of Company A products through specialized technical assistance and know-how **transfer** #check from Company B. Specifically, we will provide comprehensive know-how necessary for mobilization, enhance the reliability of Company A products, and help achieve mobility goals at an early stage.
 
-In fact, regarding this proposal, Company A has already approached Company B. In particular, you have expressed interest in utilizing our undercarriage technology, and we would like to move this forward.
+In fact, regarding this proposal, Company A has already approached us. In particular, you have expressed interest in utilizing our undercarriage technology, and we would like to move this forward.
 
 **And what we'd especially like to focus on today is Proposal 2: "The Machine X Revival Project."**
 
@@ -59,7 +59,7 @@ Company B's undercarriage technology has decades of history, proven durability, 
 
 There are two major benefits for Company A from this proposal.
 
-**First is "Immediate Availability."**
+**First is "Immediate Availability."** #表現見直し
 
 By providing the necessary undercarriage technology immediately, we can streamline the development process and ensure a smooth launch. This enables accelerated development.
 
@@ -67,13 +67,13 @@ By providing the necessary undercarriage technology immediately, we can streamli
 
 We can quickly deliver Company B's quality, which has been tested in harsh environments around the world, to Company A's customers. We provide globally proven reliability.
 
-Since discussions have already begun regarding Proposal 1, I'll keep this overview brief and move on to today's main topic, Proposal 2.
+Since discussions have already begun regarding Proposal 1, I'll keep this overview brief and move on to main topic of this presentation, Proposal 2.
 
 ---
 
 ## 【Slide 6】Proposal 2: Is It Time to Revive Machine X?
 
-Now, this is the core of today's presentation.
+Now, this is the core of this presentation.
 
 **"Is it time to revive Machine X?"**
 
@@ -81,7 +81,7 @@ This is our strategic proposal.
 
 **First, let me explain the current status of Machine X.**
 
-Machine X is a mobile crusher with a proven track record and high market reputation. However, its production has currently ended, creating a significant vacancy in Company C Group's product lineup.
+Machine X is a mobile crusher with a proven track record and high market reputation. However, its production has currently ended, creating a significant vacancy in Company C Group's product lineup. #排ガス規制によってを追加
 
 In other words, this is a "dormant asset ready for action."
 
@@ -89,7 +89,7 @@ In other words, this is a "dormant asset ready for action."
 
 We propose a complete technology transfer to revive this machine. This will provide you with a market-ready solution that can immediately strengthen and expand Company A's product portfolio.
 
-Immediate market entry—this is the key point.
+Immediate market entry　#スライド文字大きく —this is the key point.
 
 ---
 
@@ -180,6 +180,7 @@ We're thinking of this in three phases: "Hop, Step, Jump."
 - Explanation to executives
 
 **Next, "Step"—F/S execution. This will be the work for the following months.**
+#FSは最初は略さず書いたほうがいいかも
 
 - Formation of F/S team
 - Specification determination
@@ -207,7 +208,9 @@ Overcoming past challenges and creating new value—we would be honored to take 
 
 Now, we welcome your questions and comments.
 
-※Note: If you could ask questions in simple English, it will really help us communicate more smoothly. We appreciate your cooperation.
+※If you could ask questions in simple English, it will really help us communicate more smoothly. We appreciate your cooperation.
+
+Thank you. Do you have any questions?
 
 ---
 
