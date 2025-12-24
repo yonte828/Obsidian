@@ -9,7 +9,7 @@
 
 ## 【Slide 1】Title Slide
 
-Good morning/afternoon, everyone. Thank you very much for your time today.
+Good evening, everyone. Thank you very much for your time today.
 
 Today, we from Company B would like to present two strategic proposals regarding the future of Company A's products.
 
@@ -31,7 +31,7 @@ Now, let me explain the two strategies we are proposing today.
 
 **First, Proposal 1: "Technical Support for Mobility Transformation."**
 
-This proposal aims to achieve early mobility transformation of Company A products through specialized technical assistance and know-how **transfer** #check from Company B. Specifically, we will provide comprehensive know-how necessary for mobilization, enhance the reliability of Company A products, and help achieve mobility goals at an early stage.
+This proposal aims to achieve early mobility transformation of Company A products through specialized technical assistance and know-how provision from Company B. Specifically, we will provide comprehensive know-how necessary for mobilization, enhance the reliability of Company A products, and help achieve mobility goals at an early stage.
 
 In fact, regarding this proposal, Company A has already approached us. In particular, you have expressed interest in utilizing our undercarriage technology, and we would like to move this forward.
 
@@ -59,7 +59,7 @@ Company B's undercarriage technology has decades of history, proven durability, 
 
 There are two major benefits for Company A from this proposal.
 
-**First is "Immediate Availability."** #表現見直し
+**First is "Immediate Availability."** 
 
 By providing the necessary undercarriage technology immediately, we can streamline the development process and ensure a smooth launch. This enables accelerated development.
 
@@ -81,7 +81,7 @@ This is our strategic proposal.
 
 **First, let me explain the current status of Machine X.**
 
-Machine X is a mobile crusher with a proven track record and high market reputation. However, its production has currently ended, creating a significant vacancy in Company C Group's product lineup. #排ガス規制によってを追加
+Machine X is a mobile crusher with a proven track record and a strong market reputation. However, its production has currently ended due to tightening emissions regulations, creating a significant vacancy in Company C Group’s product lineup.
 
 In other words, this is a "dormant asset ready for action."
 
@@ -89,7 +89,7 @@ In other words, this is a "dormant asset ready for action."
 
 We propose a complete technology transfer to revive this machine. This will provide you with a market-ready solution that can immediately strengthen and expand Company A's product portfolio.
 
-Immediate market entry　#スライド文字大きく —this is the key point.
+Immediate market entry　—this is the key point.
 
 ---
 
@@ -175,22 +175,9 @@ We're thinking of this in three phases: "Hop, Step, Jump."
 
 **First, "Hop"—establishing the joint plan. This is what we should do today and through the next several meetings.**
 
-- Scope determination
-- Consideration of specifications
-- Explanation to executives
-
 **Next, "Step"—F/S execution. This will be the work for the following months.**
-#FSは最初は略さず書いたほうがいいかも
-
-- Formation of F/S team
-- Specification determination
-- Cost estimation
-- Detailed schedule planning
 
 **And then "Jump"—full development. This is our future goal.**
-
-- Machine X development
-- Company A product mobilization
 
 Let's move toward achieving our goals through these steps.
 
