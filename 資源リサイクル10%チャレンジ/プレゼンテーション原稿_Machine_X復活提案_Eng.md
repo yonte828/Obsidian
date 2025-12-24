@@ -7,7 +7,8 @@
 
 ---
 
-## 【Slide 1】Title Slide
+## 【Slide 1】Title Slide 
+0:32
 
 Good evening, everyone. Thank you very much for your time today.
 
@@ -18,6 +19,7 @@ The title is "Strategic Mobilization Proposal for Company A Products." Through t
 ---
 
 ## 【Slide 2】Important Notice
+0:25
 
 First, let me share an important context with you.
 
@@ -26,6 +28,7 @@ This proposal has been driven by the enthusiasm of Company B's Challenge Activit
 ---
 
 ## 【Slide 3】Overview of Two Strategic Proposals
+2:03
 
 Now, let me explain the two strategies we are proposing today.
 
@@ -44,6 +47,7 @@ Through these two proposals, we aim to drive transformation through technical sy
 ---
 
 ## 【Slide 4】Proposal 1: Technical Support for Mobilization
+0:56
 
 Let me briefly explain Proposal 1.
 
@@ -56,6 +60,7 @@ Company B's undercarriage technology has decades of history, proven durability, 
 ---
 
 ## 【Slide 5】Benefits for Company A: Reliability and Speed
+1:04
 
 There are two major benefits for Company A from this proposal.
 
@@ -72,6 +77,7 @@ Since discussions have already begun regarding Proposal 1, I'll keep this overvi
 ---
 
 ## 【Slide 6】Proposal 2: Is It Time to Revive Machine X?
+1:19
 
 Now, this is the core of this presentation.
 
@@ -81,7 +87,7 @@ This is our strategic proposal.
 
 **First, let me explain the current status of Machine X.**
 
-Machine X is a mobile crusher with a proven track record and a strong market reputation. However, its production has currently ended due to tightening emissions regulations, creating a significant vacancy in Company C Group’s product lineup.
+Machine X is a mobile crusher with a proven track record and a strong market reputation. However, its production has currently ended due to tightening emissions regulations #修正, creating a significant vacancy in Company C Group’s product lineup.
 
 In other words, this is a "dormant asset ready for action."
 
@@ -94,6 +100,7 @@ Immediate market entry　—this is the key point.
 ---
 
 ## 【Slide 7】Why Now? Overcoming Past Barriers
+3:24
 
 You might be wondering, "But why now?"
 
@@ -115,13 +122,14 @@ That opportunity is a partnership with Company A.
 
 Company A has expertise in the North American market and a rich crusher lineup.
 
-In other words, **Company B's technological intellectual property × Company A's development team = Powerful synergy**, making the revival of Machine X possible.
+In other words, **Company B's technological intellectual property and Company A's development team = Powerful synergy**, making the revival of Machine X possible.
 
 Past challenges can be solved through partnership.
 
 ---
 
 ## 【Slide 8】A "Win-Win-Win" Project
+1:08
 
 This project is truly a "three-way benefit"—a "Win-Win-Win" project.
 
@@ -144,6 +152,7 @@ This project benefits all parties involved—that's the key feature.
 ---
 
 ## 【Slide 9】What We Can Provide: "Project Starter Kit"
+1:13
 
 You might be thinking, "But starting from scratch would be difficult, wouldn't it?"
 
@@ -168,6 +177,7 @@ In other words, you have a complete "Project Starter Kit" ready to go.
 ---
 
 ## 【Slide 10】Next Steps: Hop, Step, Jump
+0:52
 
 Now, regarding how we will proceed with the next steps.
 
@@ -175,7 +185,7 @@ We're thinking of this in three phases: "Hop, Step, Jump."
 
 **First, "Hop"—establishing the joint plan. This is what we should do today and through the next several meetings.**
 
-**Next, "Step"—F/S execution. This will be the work for the following months.**
+**Next, "Step"—Feasibility study execution. This will be the work for the following months.**
 
 **And then "Jump"—full development. This is our future goal.**
 
@@ -186,6 +196,7 @@ Let's start with "Hop"—establishing the joint plan.
 ---
 
 ## 【Slide 11】Q&A Session
+0:52
 
 Thank you for your attention.
 
