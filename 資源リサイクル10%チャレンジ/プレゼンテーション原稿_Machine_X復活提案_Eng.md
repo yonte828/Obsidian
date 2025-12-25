@@ -12,7 +12,7 @@
 
 Good evening, everyone. Thank you very much for your time today.
 
-Today, we from Company B would like to present two strategic proposals regarding the future of Company A's products.
+We from Company B would like to present two strategic proposals regarding the future of Company A's products.
 
 The title is "Strategic Mobilization Proposal for Company A Products." Through these two proposals, we hope to help accelerate Company A's mobility transformation.
 
@@ -34,13 +34,15 @@ Now, let me explain the two strategies we are proposing today.
 
 **First, Proposal 1: "Technical Support for Mobility Transformation."**
 
-This proposal aims to achieve early mobility transformation of Company A products through specialized technical assistance and know-how provision from Company B. Specifically, we will provide comprehensive know-how necessary for mobilization, enhance the reliability of Company A products, and help achieve mobility goals at an early stage.
+This proposal aims to achieve early mobility transformation of Company A products through specialized technical assistance and know-how provision from Company B. Specifically, we will provide comprehensive know-how for mobilization, enhance the reliability of Company A products, and accelerate your mobility transformation.
 
-In fact, regarding this proposal, Company A has already approached us. In particular, you have expressed interest in utilizing our undercarriage technology, and we would like to move this forward.
+Regarding this proposal, Company A has already come to us.  
+In particular, you have shown interest in using our undercarriage technology, and we would like to move this forward.
 
 **And what we'd especially like to focus on today is Proposal 2: "The Machine X Revival Project."**
 
-This is a proposal for strategic market entry utilizing proven platform assets. By transferring and modernizing the proven Machine X mobile crusher platform, you can immediately establish a market presence.
+This is a proposal for strategic market entry based on a proven platform.  
+By refreshing the Machine X mobile crusher platform, you can quickly enter the market.
 
 Through these two proposals, we aim to drive transformation through technical synergy and strategic revival, creating value for both Company A and Company B.
 
@@ -53,7 +55,8 @@ Let me briefly explain Proposal 1.
 
 **The value proposition is "Bringing World-Class Undercarriage Quality to Company A Products."**
 
-As I mentioned earlier, Company A has already reached out to us about utilizing our undercarriage technology. Therefore, we would like to advance this collaboration and support the mobilization of Company A products with Company B's proven components.
+As I mentioned earlier, Company A has already reached out to us about using our undercarriage technology.  
+So we would like to move this collaboration forward and support the mobilization of Company A products with Company B’s proven components.
 
 Company B's undercarriage technology has decades of history, proven durability, and has become the global standard used in construction and mining equipment worldwide.
 
@@ -66,7 +69,7 @@ There are two major benefits for Company A from this proposal.
 
 **First is "Immediate Availability."** 
 
-By providing the necessary undercarriage technology immediately, we can streamline the development process and ensure a smooth launch. This enables accelerated development.
+By providing the necessary undercarriage technology early on, we can simplify the development process and ensure a smooth launch. This shortens your development timeline.
 
 **Second is "Proven Quality."**
 
@@ -87,7 +90,7 @@ This is our strategic proposal.
 
 **First, let me explain the current status of Machine X.**
 
-Machine X is a mobile crusher with a proven track record and a strong market reputation. However, its production has currently ended due to tightening emissions regulations #修正, creating a significant vacancy in Company C Group’s product lineup.
+Machine X is a mobile crusher with a proven track record and a strong market reputation. However, its production has currently ended due to profitability considerations, creating a significant vacancy in Company C Group’s product lineup.
 
 In other words, this is a "dormant asset ready for action."
 
@@ -108,13 +111,13 @@ Actually, we can turn past challenges and current dilemmas into new opportunitie
 
 **First, what were the past challenges?**
 
-Historically, Company B had a limited crusher lineup, which resulted in weak appeal as a solution provider. It was difficult to compete as a comprehensive solution provider.
+In the past, Company B had a limited crusher lineup, which made it hard for us to compete as a full-solution provider.
 
-Furthermore, past exchange rates—specifically the strong yen—negatively affected profitability, forcing us to withdraw from the market.
+In addition, the strong yen hurt profitability, and we eventually had to exit the market.
 
 **So what is the current issue?**
 
-To be honest, Company B currently does not have a dedicated mobile crusher team, and we cannot allocate resources. While we have a strong desire to revive this excellent product, we haven't been able to realize it due to internal resource constraints.
+To be honest, Company B currently does not have a dedicated mobile crusher team, and we cannot allocate resources. While we really want to revive this product, we haven’t been able to do so because of limited internal resources.
 
 **However, there is a new opportunity here.**
 
@@ -156,7 +159,7 @@ This project benefits all parties involved—that's the key feature.
 
 You might be thinking, "But starting from scratch would be difficult, wouldn't it?"
 
-Don't worry. This is not starting from zero. We provide a complete package.
+This is not starting from zero. We provide a complete package.
 
 **There are three things we can provide.**
 
@@ -174,9 +177,47 @@ We, the project members, will lead the technology transfer and provide hands-on 
 
 In other words, you have a complete "Project Starter Kit" ready to go.
 
----
 
-## 【Slide 10】Next Steps: Hop, Step, Jump
+---
+## 【Slide 13：Technical Know-how Provision】
+
+Let me briefly explain what we can actually provide from a technical perspective.
+
+With over 30 years of experience in mobile crusher design, Company B has accumulated extensive technical know-how.  
+And through this partnership, we are ready to share that know-how with you.
+
+There are five key elements.
+
+**Design standards, FEA analysis, Testing standards, Defect case database, Experienced engineers.**  
+In the next slide, I’ll show you some concrete examples.
+
+
+---
+## 【Slide 14：Technical Know-how Provision】
+
+This is an example of our design standards.
+
+Here you can see how our crusher-related standards have been converted into KES and fully organized.  
+We also use standardized quality confirmation sheets, like this example for jaw crusher crushing capacity.
+
+---
+## 【Slide 15：Technical Know-how Provision】
+
+This slide shows our FEA analysis and testing standards.
+
+We have performed a large number of FEA analyses in past projects, and each analysis can be reviewed by number, including conditions and results.  
+In addition, we have 38 dedicated test standards for mobile crushers, along with other standards shared with excavator development.
+
+---
+## 【Slide 16：Technical Know-how Provision】
+
+Finally, this is our defect case database.
+
+We maintain a searchable collection of past defect cases and implemented countermeasures, making it easy to learn from previous issues.  
+During design release, drawings are also checked against a standardized checklist.
+
+---
+## 【Slide 17】Next Steps: Hop, Step, Jump
 0:52
 
 Now, regarding how we will proceed with the next steps.
@@ -194,7 +235,6 @@ Let's move toward achieving our goals through these steps.
 Let's start with "Hop"—establishing the joint plan.
 
 ---
-
 ## 【Slide 11】Q&A Session
 0:52
 
@@ -202,13 +242,7 @@ Thank you for your attention.
 
 The two strategies we have proposed today, especially the Machine X Revival Project, can create a significant market impact by combining the strengths of Company A and Company B. We are confident of this.
 
-Overcoming past challenges and creating new value—we would be honored to take the first step toward this together with you.
-
-Now, we welcome your questions and comments.
-
-※If you could ask questions in simple English, it will really help us communicate more smoothly. We appreciate your cooperation.
-
-Thank you. Do you have any questions?
+That’s all from my side. I’d be happy to answer any questions or comments.
 
 ---
 
