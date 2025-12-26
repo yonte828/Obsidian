@@ -1,11 +1,11 @@
 ## 【Slide 1】Title Slide 
-0:32
+0:31
 
-Good evening, everyone. Thank you very much for your time today.
+Thank you very much for your time today.
 
 We from Company B would like to present two strategic proposals regarding the future of Company A's products.
 
-The title is "Strategic Mobilization Proposal for Company A Products." Through these two proposals, we hope to help accelerate Company A's mobility transformation.
+The title is "Accelerating KMC's Mobility Transformation: Two Strategic Proposals" Through these two proposals, we hope to help accelerate Company A's mobility transformation.
 
 ---
 
@@ -19,7 +19,7 @@ This proposal has been driven by the enthusiasm of Company B's Challenge Activit
 ---
 
 ## 【Slide 3】Overview of Two Strategic Proposals
-2:03
+1:35
 
 Now, let me explain the two strategies we are proposing today.
 
@@ -30,17 +30,17 @@ This proposal aims to achieve early mobility transformation of Company A product
 Regarding this proposal, Company A has already come to us.  
 In particular, you have shown interest in using our undercarriage technology, and we would like to move this forward.
 
-**And what we'd especially like to focus on today is Proposal 2: "The Machine X Revival Project."**
+**And what we'd especially like to focus on today is Proposal 2: "Machine X Revival Project."**
 
 This is a proposal for strategic market entry based on a proven platform.  
-By refreshing the Machine X mobile crusher platform, you can quickly enter the market.
+By refreshing Machine X mobile crusher platform, you can quickly enter the market.
 
 Through these two proposals, we aim to drive transformation through technical synergy and strategic revival, creating value for both Company A and Company B.
 
 ---
 
 ## 【Slide 4】Proposal 1: Technical Support for Mobilization
-0:56
+0:49
 
 Let me briefly explain Proposal 1.
 
@@ -54,7 +54,7 @@ Company B's undercarriage technology has decades of history, proven durability, 
 ---
 
 ## 【Slide 5】Benefits for Company A: Reliability and Speed
-1:04
+0:57
 
 There are two major benefits for Company A from this proposal.
 
@@ -71,7 +71,7 @@ Since discussions have already begun regarding Proposal 1, I'll keep this overvi
 ---
 
 ## 【Slide 6】Proposal 2: Is It Time to Revive Machine X?
-1:19
+1:13
 
 Now, this is the core of this presentation.
 
@@ -81,7 +81,7 @@ This is our strategic proposal.
 
 **First, let me explain the current status of Machine X.**
 
-Machine X is a mobile crusher with a proven track record and a strong market reputation. However, its production has currently ended due to profitability considerations, creating a significant vacancy in Company C Group’s product lineup.
+It is a mobile crusher with a proven track record and a strong market reputation. However, its production has currently ended due to profitability considerations, creating a significant vacancy in our group’s product lineup.
 
 In other words, this is a "dormant asset ready for action."
 
@@ -94,7 +94,7 @@ Immediate market entry　—this is the key point.
 ---
 
 ## 【Slide 7】Why Now? Overcoming Past Barriers
-3:24
+1:39
 
 You might be wondering, "But why now?"
 
@@ -104,7 +104,7 @@ Actually, we can turn past challenges and current dilemmas into new opportunitie
 
 In the past, Company B had a limited crusher lineup, which made it hard for us to compete as a full-solution provider.
 
-In addition, the strong yen hurt profitability, and we eventually had to exit the market.
+In addition, the strong yen negatively impacted profitability, and we eventually had to exit the market.
 
 **So what is the current issue?**
 
@@ -112,13 +112,11 @@ To be honest, Company B currently does not have a dedicated mobile crusher team,
 
 **However, there is a new opportunity here.**
 
-That opportunity is a partnership with Company A.
-
-Company A has expertise in the North American market and a rich crusher lineup.
+That opportunity is a partnership with Company A. which has expertise in the North American market and a rich crusher lineup.
 
 In other words, **Company B's technological intellectual property and Company A's development team = Powerful synergy**, making the revival of Machine X possible.
 
-Past challenges can be solved through partnership.
+Past challenges can be solved through this partnership.
 
 ---
 
@@ -147,12 +145,19 @@ This project benefits all parties involved—that's the key feature.
 ---
 
 ## 【Slide 9】Specifications of BR580JG
+0:45
+
+
 ---
 
 ## 【Slide 10】Sales feature
+0:45
+
 ---
 
 ## 【Slide 11】Demand
+0:45
+
 ---
 ## 【Slide 12】What We Can Provide: "Project Starter Kit"
 1:13
@@ -169,7 +174,7 @@ We will provide the full set of Machine X design drawings and related specificat
 
 **Second, extensive know-how.**
 
-We provide access to a practical knowledge base including historical defect cases and established countermeasures. This allows you to proceed smoothly with development without repeating the same mistakes.
+We provide access to accumulated know-how, including past defect cases and proven countermeasures. This allows you to proceed smoothly with development without repeating the same mistakes.
 
 **Third, technical support.**
 
@@ -180,7 +185,7 @@ In other words, you have a complete "Project Starter Kit" ready to go.
 
 ---
 ## 【Slide 13：Technical Know-how Provision】
-◯
+0:46
 
 Let me briefly explain what we can actually provide from a technical perspective.
 
@@ -189,36 +194,27 @@ And through this partnership, we are ready to share that know-how with you.
 
 There are five key elements.
 
-**Design standards, FEA analysis, Testing standards, Defect case database, Experienced engineers.**  
+**Design standards, FEA analysis, Testing standards, Defect case database, and Experienced engineers.**  
 In the next slide, I’ll show you some concrete examples.
 
 
 ---
 ## 【Slide 14：Technical Know-how Provision】
-◯
+0:19
 
-This is an example of our design standards.
-
-Here you can see how our crusher-related standards have been converted into KES and fully organized.  
-We also use standardized quality confirmation sheets, like this example for jaw crusher crushing capacity.
+Here you can see how our crusher-related standards have been converted into KES and organized, using common quality confirmation sheets such as this jaw crusher capacity example.
 
 ---
 ## 【Slide 15：Technical Know-how Provision】
-◯
+0:21
 
-This slide shows our FEA analysis and testing standards.
-
-We have performed a large number of FEA analyses in past projects, and each analysis can be reviewed by number, including conditions and results.  
-In addition, we have 38 dedicated test standards for mobile crushers, along with other standards shared with excavator development.
+This example shows how our past FEA analyses are managed by number with conditions and results, alongside 38 dedicated test standards for mobile crushers and shared standards from excavator development.
 
 ---
 ## 【Slide 16：Technical Know-how Provision】
-◯
+0:17
 
-Finally, this is our defect case database.
-
-We maintain a searchable collection of past defect cases and implemented countermeasures, making it easy to learn from previous issues.  
-During design release, drawings are also checked against a standardized checklist.
+This example shows our searchable collection of past defect cases and countermeasures, together with a checklist used to verify drawings at design release.
 
 ---
 ## 【Slide 17】Next Steps: Hop, Step, Jump
@@ -226,7 +222,7 @@ During design release, drawings are also checked against a standardized checklis
 
 Now, regarding how we will proceed with the next steps.
 
-We're thinking of this in three phases: "Hop, Step, Jump."
+We're thinking of this in three phases.
 
 **First, "Hop"—establishing the joint plan. This is what we should do today and through the next several meetings.**
 
@@ -240,11 +236,11 @@ Let's start with "Hop"—establishing the joint plan.
 
 ---
 ## 【Slide 18】Q&A Session
-0:52
+0:30
 
 Thank you for your attention.
 
-The two strategies we have proposed today, especially the Machine X Revival Project, can create a significant market impact by combining the strengths of Company A and Company B. We are confident of this.
+The two strategies we have proposed today, especially Machine X Revival Project, can create a significant market impact by combining the strengths of Company A and Company B. We are confident of this.
 
 That’s all from my side. I’d be happy to answer any questions or comments.
 
