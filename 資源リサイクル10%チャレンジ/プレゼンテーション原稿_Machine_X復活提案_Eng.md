@@ -1,12 +1,3 @@
-# Presentation Script
-## Strategic Product Mobilization Proposal
-
-**Estimated Time**: 15 minutes  
-**Target Audience**: Company A Executive Leadership  
-**Date**: December 22, 2025
-
----
-
 ## 【Slide 1】Title Slide 
 0:32
 
@@ -152,9 +143,18 @@ We expand the product portfolio, generate significant synergies, and increase pr
 
 This project benefits all parties involved—that's the key feature.
 
+
 ---
 
-## 【Slide 9】What We Can Provide: "Project Starter Kit"
+## 【Slide 9】Specifications of BR580JG
+---
+
+## 【Slide 10】Sales feature
+---
+
+## 【Slide 11】Demand
+---
+## 【Slide 12】What We Can Provide: "Project Starter Kit"
 1:13
 
 You might be thinking, "But starting from scratch would be difficult, wouldn't it?"
@@ -180,6 +180,7 @@ In other words, you have a complete "Project Starter Kit" ready to go.
 
 ---
 ## 【Slide 13：Technical Know-how Provision】
+◯
 
 Let me briefly explain what we can actually provide from a technical perspective.
 
@@ -194,6 +195,7 @@ In the next slide, I’ll show you some concrete examples.
 
 ---
 ## 【Slide 14：Technical Know-how Provision】
+◯
 
 This is an example of our design standards.
 
@@ -202,6 +204,7 @@ We also use standardized quality confirmation sheets, like this example for jaw 
 
 ---
 ## 【Slide 15：Technical Know-how Provision】
+◯
 
 This slide shows our FEA analysis and testing standards.
 
@@ -210,6 +213,7 @@ In addition, we have 38 dedicated test standards for mobile crushers, along with
 
 ---
 ## 【Slide 16：Technical Know-how Provision】
+◯
 
 Finally, this is our defect case database.
 
@@ -235,7 +239,7 @@ Let's move toward achieving our goals through these steps.
 Let's start with "Hop"—establishing the joint plan.
 
 ---
-## 【Slide 11】Q&A Session
+## 【Slide 18】Q&A Session
 0:52
 
 Thank you for your attention.
